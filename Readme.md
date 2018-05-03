@@ -1,9 +1,9 @@
 
 ## Quick Start
+1. change the settings file
+2.
 
 ```
-$ git clone https://github.com/mtianyan/Mxonline3.git
-$ cd Mxonline3
 $ pip install -r requirements.txt
 $ python manage.py runserver
 ```
